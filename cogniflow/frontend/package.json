@@ -1,0 +1,35 @@
+{
+  "name": "cogniflow-frontend",
+  "version": "1.0.0",
+  "description": "Revolutionary 3D Adaptive Learning Platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "@react-three/fiber": "^8.15.14",
+    "@react-three/drei": "^9.93.0",
+    "react-force-graph-3d": "^1.24.4",
+    "d3-force-3d": "^3.0.5",
+    "framer-motion": "^10.16.16",
+    "socket.io-client": "^4.7.4",
+    "recharts": "^2.8.0",
+    "lucide-react": "^0.303.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.45",
+    "@types/node": "^20.10.6",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "keywords": ["ai", "education", "3d", "adaptive-learning", "cognitive-modeling"],
+  "author": "CogniFlow Team",
+  "license": "MIT"
+}
